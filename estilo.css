@@ -1,0 +1,41 @@
+.Caja_padre{
+    
+    height: 500px;
+    width: 500px;
+    border-style: dashed;
+    font-size: 0;
+}
+.hijo{
+    display: inline-block;
+    padding: 10px;
+}
+#_1 {
+    background-image: url("https://www.w3schools.com/css/paris.jpg");
+    height: 210px;
+    width: 230px;
+    border-top: 10px solid grey;
+    border-bottom: 10px solid grey;
+}
+#_2{
+    background-color: red;
+    height: 210px;
+    width: 230px;
+    border-top: 10px solid grey;
+    border-bottom: 10px solid grey;
+}
+#_3{
+    background-color: darksalmon;
+    height: 230px;
+    width: 210px;
+    border-right: 10px solid cyan;
+    border-left: 10px solid cyan;
+}
+#_4{
+    background-color: green;
+    height: 230px;
+    width: 210px;
+    border-right: 10px solid cyan;
+    border-left: 10px solid cyan;
+}
+
+
